@@ -1,0 +1,6 @@
+{
+    "rewrites": [
+      { "source": "/.well-known/discord", "destination": "/api/discord" }
+    ]
+  }
+  
